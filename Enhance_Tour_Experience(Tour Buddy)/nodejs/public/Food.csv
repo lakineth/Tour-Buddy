@@ -1,0 +1,212 @@
+User ID,Food Name,"Cuisine Type	",Dietary Restrictions,Flavor Profiles,Allergies,Time of Day,Occasion,Budget
+1,Italian Cuisine,Italian,Vegetarian,Savory,None,Dinner,Casual,Moderate
+2,Asian Cuisine,Japanese,None,Umami,None,Lunch,Casual,Moderate
+3,Italian Cuisine,Italian,Gluten-Free,Savory,None,Dinner,Formal,High
+4,Indian Cuisine,Indian,None,Spicy,None,Lunch,Casual,Moderate
+5,Indian Cuisine,Indian,Vegan,Fresh,None,Lunch,Casual,Low
+6,Italian Cuisine,Italian,None,Spicy,None,Dinner,Casual,Moderate
+7,Italian Cuisine,Italian,None,Savory,None,Dinner,Casual,Moderate
+8,Asian Cuisine,Japanese,None,Umami,None,Lunch,Casual,Moderate
+9,Asian Cuisine,Japanese,None,Savory,None,Dinner,Casual,Moderate
+10,Asian Cuisine,Japanese,Vegan,Fresh,None,Lunch,Casual,Low
+11,Italian Cuisine,Italian,None,Savory,None,Dinner,Casual,Moderate
+12,Asian Cuisine,Japanese,None,Umami,None,Lunch,Casual,Moderate
+13,Indian Cuisine,Indian,None,Spicy,None,Dinner,Casual,Moderate
+14,Italian Cuisine,Italian,Vegan,Fresh,None,Lunch,Casual,Low
+15,Italian Cuisine,Italian,None,Spicy,None,Dinner,Casual,Moderate
+16,Italian Cuisine,Italian,Vegetarian,Savory,None,Dinner,Casual,Moderate
+17,Asian Cuisine,Japanese,None,Umami,None,Lunch,Casual,Moderate
+18,Italian Cuisine,Italian,Gluten-Free,Savory,None,Dinner,Formal,High
+19,Italian Cuisine,Italian,Vegan,Fresh,None,Lunch,Casual,Low
+20,Italian Cuisine,Italian,None,Savory,None,Dinner,Casual,Moderate
+21,Asian Cuisine,Japanese,None,Umami,None,Lunch,Casual,Moderate
+22,Indian Cuisine,Indian,None,Spicy,None,Dinner,Casual,Moderate
+23,Italian Cuisine,Italian,Vegan,Fresh,None,Lunch,Casual,Low
+24,Italian Cuisine,Italian,None,Spicy,None,Dinner,Casual,Moderate
+25,Sri Lankan Cuisine,Sri Lankan,None,Spicy,None,Dinner,Casual,Moderate
+27,Indian Cuisine,Indian,None,Spicy,None,Lunch,Casual,Moderate
+28,Italian Cuisine,Italian,None,Savory,None,Dinner,Special,High
+29,Asian Cuisine,Japanese,Pescatarian,Umami,None,Lunch,Casual,Moderate
+30,Italian Cuisine,Italian,Vegetarian,Savory,None,Dinner,Casual,Moderate
+31,Sri Lankan Cuisine,Sri Lankan,Gluten-Free,Spicy,None,Lunch,Casual,Moderate
+32,Asian Cuisine,Thai,None,Spicy,Peanuts,Dinner,Casual,Moderate
+33,Italian Cuisine,Italian,None,Spicy,None,Dinner,Casual,Moderate
+34,Asian Cuisine,Thai,None,Umami,None,Lunch,Casual,Moderate
+35,Sri Lankan Cuisine,Sri Lankan,None,Savory,None,Dinner,Casual,Moderate
+36,Asian Cuisine,Thai,Vegetarian,Savory,None,Dinner,Casual,Low
+37,Italian Cuisine,Italian,None,Savory,None,Dinner,Casual,Moderate
+38,Indian Cuisine,Indian,None,Spicy,None,Lunch,Casual,Moderate
+39,Sri Lankan Cuisine,Sri Lankan,None,Spicy,None,Dinner,Special,High
+40,Asian Cuisine,Japanese,None,Umami,None,Lunch,Casual,Moderate
+41,Asian Cuisine,Chinese,None,Savory,None,Dinner,Casual,Moderate
+42,Sri Lankan Cuisine,Sri Lankan,None,Spicy,None,Dinner,Casual,Moderate
+43,Sri Lankan Cuisine,Sri Lankan,None,Spicy,None,Lunch,Casual,Moderate
+44,Italian Cuisine,Italian,None,Savory,None,Dinner,Casual,Moderate
+45,Asian Cuisine,Indonesian,None,Spicy,None,Lunch,Casual,Moderate
+46,Sri Lankan Cuisine,Sri Lankan,None,Spicy,None,Dinner,Special,High
+47,Asian Cuisine,Indonesian,None,Savory,None,Lunch,Casual,Moderate
+48,Indian Cuisine,Indian,None,Spicy,None,Lunch,Casual,Moderate
+49,Asian Cuisine,Indonesian,None,Spicy,Shrimp,Dinner,Casual,Moderate
+50,Asian Cuisine,Chinese,None,Sweet,None,Dinner,Casual,Moderate
+51,Indian Cuisine,Indian,Vegetarian,Spicy,None,Breakfast,Casual,Low
+52,Sri Lankan Cuisine,Sri Lankan,None,Savory,None,Breakfast,Casual,Low
+53,Asian Cuisine,Thai,None,Savory,None,Dinner,Casual,Moderate
+54,Indian Cuisine,Indian,None,Creamy,None,Dinner,Special,High
+55,Asian Cuisine,Thai,None,Spicy,None,Lunch,Casual,Moderate
+56,Asian Cuisine,Thai,None,"Spicy, Sour",None,Dinner,Special,High
+57,Indian Cuisine,Indian,Vegetarian,Spicy,None,Lunch,Casual,Moderate
+58,Asian Cuisine,Thai,None,Sweet,None,Dinner,Casual,Moderate
+59,Asian Cuisine,Chinese,None,Sweet,None,Dinner,Casual,Moderate
+60,Asian Cuisine,Chinese,None,Savory,None,Dinner,Casual,Moderate
+61,Asian Cuisine,Chinese,None,Savory,None,Lunch,Casual,Moderate
+62,Asian Cuisine,Japanese,None,Umami,None,Lunch,Casual,Moderate
+63,Italian Cuisine,Italian,Gluten-Free,Savory,None,Dinner,Formal,High
+64,Indian Cuisine,Indian,Gluten-Free,Spicy,None,Lunch,Casual,Moderate
+65,Indian Cuisine,Indian,None,Spicy,None,Lunch,Casual,Moderate
+66,Asian Cuisine,Thai,None,Spicy,Shrimp,Dinner,Casual,Moderate
+67,Asian Cuisine,Chinese,None,Sweet,None,Dinner,Casual,Moderate
+68,Indian Cuisine,Indian,Vegetarian,Spicy,Gluten,Breakfast,Casual,Low
+69,Sri Lankan Cuisine,Sri Lankan,None,Savory,Egg,Breakfast,Casual,Low
+70,Sri Lankan Cuisine,Sri Lankan,None,Savory,None,Dinner,Casual,Moderate
+71,Indian Cuisine,Indian,None,Creamy,Dairy,Dinner,Special,High
+72,Indian Cuisine,Indian,None,Spicy,None,Lunch,Casual,Moderate
+73,Indian Cuisine,Indian,None,Creamy,None,Dinner,Special,High
+74,Indian Cuisine,Indian,Vegetarian,Spicy,None,Breakfast,Casual,Low
+75,Indian Cuisine,Indian,Gluten-Free,Spicy,None,Lunch,Casual,Moderate
+76,Asian Cuisine,Chinese,None,Sweet,None,Dinner,Casual,Moderate
+77,Sri Lankan Cuisine,Sri Lankan,None,Savory,None,Dinner,Casual,Moderate
+78,Asian Cuisine,Chinese,None,Savory,None,Lunch,Casual,Moderate
+79,Asian Cuisine,Chinese,None,Spicy,None,Dinner,Casual,Moderate
+80,Sri Lankan Cuisine,Sri Lankan,None,Spicy,None,Dinner,Special,High
+81,Sri Lankan Cuisine,Sri Lankan,None,Savory,None,Breakfast,Casual,Low
+82,Asian Cuisine,Thai,None,Savory,None,Lunch,Casual,Moderate
+83,Asian Cuisine,Thai,None,Savory,None,Dinner,Casual,Moderate
+84,Asian Cuisine,Chinese,Vegan,Spicy,None,Dinner,Casual,Moderate
+85,Sri Lankan Cuisine,Sri Lankan,None,Savory,None,Dinner,Casual,Moderate
+86,Russian Cuisine,Russian,None,Savory,None,Dinner,Special,High
+87,Russian Cuisine,Russian,Vegetarian,Savory,None,Breakfast,Casual,Moderate
+88,Sri Lankan Cuisine,Sri Lankan,Vegetarian,Spicy,None,Lunch,Casual,Moderate
+89,Sri Lankan Cuisine,Sri Lankan,None,Savory,None,Breakfast,Casual,Moderate
+90,Russian Cuisine,Russian,None,Savory,None,Lunch,Special,Moderate
+91,Russian Cuisine,Russian,None,Savory,None,Dinner,Special,High
+92,Russian Cuisine,Russian,None,Savory,None,Snack,Casual,Low
+93,Russian Cuisine,Russian,None,Savory,None,Dinner,Special,High
+94,Russian Cuisine,Russian,Vegetarian,Creamy,None,Lunch,Casual,Moderate
+95,Sri Lankan Cuisine,Sri Lankan,None,Spicy,None,Dinner,Casual,Moderate
+96,Sri Lankan Cuisine,Sri Lankan,None,Tangy,None,Lunch,Casual,Moderate
+97,Sri Lankan Cuisine,Sri Lankan,None,Mild,None,Breakfast,Casual,Moderate
+98,Sri Lankan Cuisine,Sri Lankan,None,Fresh,None,Lunch,Casual,Moderate
+99,Sri Lankan Cuisine,Sri Lankan,None,Spicy,None,Dinner,Casual,Moderate
+100,Sri Lankan Cuisine,Sri Lankan,None,Creamy,None,Lunch,Casual,Moderate
+101,Sri Lankan Cuisine,Sri Lankan,Vegetarian,Creamy,None,Breakfast,Casual,Moderate
+102,Sri Lankan Cuisine,Sri Lankan,None,Spicy,None,Dinner,Casual,Moderate
+103,Sri Lankan Cuisine,Sri Lankan,Vegetarian,Tangy,None,Lunch,Casual,Moderate
+104,Russian Cuisine,Russian,None,Crispy,None,Dinner,Special,High
+105,Sri Lankan Cuisine,Sri Lankan,None,Mild,None,Breakfast,Casual,Moderate
+106,Sri Lankan Cuisine,Sri Lankan,Vegan,Spicy,None,Lunch,Casual,Moderate
+107,Russian Cuisine,Russian,None,Rich,None,Lunch,Special,High
+108,Russian Cuisine,Russian,None,Buttery,None,Dinner,Special,High
+109,Indian Cuisine,Indian,Vegetarian,Umami,Soy,Lunch,Casual,Moderate
+110,Asian Cuisine,Chinese,None,Spicy,None,Dinner,Casual,Moderate
+111,Asian Cuisine,Chinese,None,Savory,None,Brunch,Casual,Moderate
+112,Asian Cuisine,Chinese,None,Tangy,None,Lunch,Casual,Moderate
+113,Asian Cuisine,Thai,None,Sweet,None,Dinner,Casual,Moderate
+114,Indian Cuisine,Indian,None,Spicy,None,Lunch,Casual,Moderate
+115,Asian Cuisine,Thai,None,Tangy,None,Lunch,Casual,Moderate
+116,Indian Cuisine,Indian,None,Spicy,None,Dinner,Casual,Moderate
+117,Indian Cuisine,Indian,None,Savory,None,Lunch,Casual,Moderate
+118,Indian Cuisine,Indian,Vegetarian,Savory,None,Breakfast,Casual,Moderate
+119,Indian Cuisine,Indian,Vegetarian,Spicy,None,Dinner,Casual,Moderate
+120,Asian Cuisine,Thai,None,Sweet,None,Dinner,Casual,Moderate
+121,Indian Cuisine,Indian,None,Spicy,None,Lunch,Casual,Moderate
+122,Asian Cuisine,Thai,None,Tangy,None,Lunch,Casual,Moderate
+123,Asian Cuisine,Thai,None,Sweet,None,Dessert,Casual,Moderate
+124,Asian Cuisine,Thai,None,Savory,None,Lunch,Casual,Moderate
+125,Russian Cuisine,Russian,None,Creamy,None,Dinner,Casual,Moderate
+126,Asian Cuisine,Thai,None,Meaty,None,Dinner,Casual,Moderate
+127,Russian Cuisine,Russian,None,Tangy,None,Lunch,Casual,Moderate
+128,Indian Cuisine,Indian,None,Spicy,None,Dinner,Casual,Moderate
+129,Italian Cuisine,Italian,None,Savory,None,Dinner,Casual,Moderate
+130,Russian Cuisine,Russian,None,Creamy,None,Dinner,Casual,Moderate
+131,Indian Cuisine,Indian,None,Spicy,None,Dinner,Casual,Moderate
+132,Indian Cuisine,Indian,None,Spicy,None,Lunch,Casual,Moderate
+133,Indian Cuisine,Indian,None,Spicy,None,Lunch,Casual,Moderate
+134,Indian Cuisine,Indian,None,Spicy,None,Dinner,Casual,Moderate
+135,Asian Cuisine,Chinese,None,Umami,None,Dinner,Special,Moderate
+136,Asian Cuisine,Chinese,None,Spicy,Peanuts,Lunch,Casual,Moderate
+137,Asian Cuisine,Chinese,None,Savory,None,Dinner,Casual,Moderate
+138,Asian Cuisine,Chinese,None,Spicy,None,Dinner,Special,Moderate
+139,Asian Cuisine,Chinese,None,Savory,Shellfish,Lunch,Casual,Moderate
+140,Russian Cuisine,Russian,None,Creamy,Dairy,Dinner,Formal,Expensive
+141,Asian Cuisine,Indonesian,None,Umami,None,Dinner,Special,Moderate
+142,Asian Cuisine,Chinese,None,Spicy,Peanuts,Lunch,Casual,Moderate
+143,Asian Cuisine,Chinese,None,Savory,None,Dinner,Casual,Moderate
+144,Indian Cuisine,Indian,None,Spicy,None,Dinner,Special,Moderate
+145,Asian Cuisine,Chinese,None,Crispy,None,Dinner,Formal,Expensive
+146,Asian Cuisine,Chinese,None,Savory,None,Dinner,Casual,Moderate
+147,Italian Cuisine,Italian,None,Savory,None,Lunch,Casual,Moderate
+148,Asian Cuisine,Chinese,None,Spicy,None,Dinner,Casual,Moderate
+149,Russian Cuisine,Russian,None,Savory,Eggs,Lunch,Casual,Moderate
+150,Russian Cuisine,Russian,None,Umami,None,Lunch,Casual,Moderate
+151,Russian Cuisine,Russian,None,Tangy,None,Lunch,Casual,Moderate
+152,Russian Cuisine,Russian,None,Creamy,Dairy,Dinner,Formal,Expensive
+153,Asian Cuisine,Chinese,None,Savory,None,Dinner,Casual,Moderate
+154,Asian Cuisine,Chinese,None,"Sweet, Spicy",None,Dinner,Casual,Moderate
+155,Russian Cuisine,Russian,None,Savory,None,Breakfast,Casual,Moderate
+156,Russian Cuisine,Russian,Vegetarian,Umami,None,Lunch,Casual,Moderate
+157,Asian Cuisine,Chinese,None,Savory,None,Dinner,Casual,Moderate
+158,Asian Cuisine,Indonesian,None,Refreshing,None,Lunch,Casual,Moderate
+159,Russian Cuisine,Russian,None,Savory,None,Dinner,Casual,Moderate
+160,Russian Cuisine,Russian,Vegetarian,Spicy,None,Dinner,Casual,Moderate
+161,Asian Cuisine,Indonesian,None,Savory,None,Lunch,Casual,Moderate
+162,Asian Cuisine,Indonesian,None,Umami,None,Dinner,Special,Moderate
+163,Asian Cuisine,Chinese,None,"Sweet, Spicy",None,Dinner,Casual,Moderate
+164,Asian Cuisine,Indonesian,None,Savory,None,Dinner,Casual,Moderate
+165,Indian Cuisine,Indian,None,Spicy,None,Dinner,Special,Moderate
+166,Asian Cuisine,Chinese,None,Spicy,Peanuts,Lunch,Casual,Moderate
+167,Russian Cuisine,Russian,None,Creamy,Dairy,Dinner,Formal,Expensive
+168,Asian Cuisine,Indonesian,None,Savory,None,Dinner,Casual,Moderate
+169,Asian Cuisine,Chinese,None,Savory,Shellfish,Lunch,Casual,Moderate
+170,Russian Cuisine,Russian,None,Savory,Eggs,Lunch,Casual,Moderate
+171,Indian Cuisine,Indian,None,Savory,None,Lunch,Casual,Moderate
+172,Indian Cuisine,Indian,None,"Sweet, Tangy",None,Dinner,Casual,Moderate
+173,Russian Cuisine,Russian,None,Spicy,None,Dinner,Casual,Moderate
+174,Russian Cuisine,Russian,None,Savory,None,Lunch,Casual,Moderate
+175,Asian Cuisine,Thai,None,"Spicy, Sour",None,Dinner,Casual,Moderate
+176,Russian Cuisine,Russian,None,"Sweet, Savory",None,Dinner,Casual,Moderate
+177,Russian Cuisine,Russian,None,Crispy,None,Dinner,Formal,Expensive
+178,Indian Cuisine,Indian,None,Spicy,None,Snack,Casual,Moderate
+179,Indian Cuisine,Indian,None,Creamy,Dairy,Dinner,Casual,Moderate
+180,Sri Lankan Cuisine,Sri Lankan,None,"Spicy, Savory",None,Lunch,Casual,Moderate
+181,Sri Lankan Cuisine,Sri Lankan,None,Spicy,None,Dinner,Casual,Moderate
+182,Sri Lankan Cuisine,Sri Lankan,None,"Crispy, Savory",None,Breakfast,Casual,Moderate
+183,Sri Lankan Cuisine,Sri Lankan,Vegetarian,"Spicy, Tangy",None,Lunch,Casual,Moderate
+184,Indian Cuisine,Indian,Vegetarian,Spicy,None,Breakfast,Casual,Moderate
+185,Indian Cuisine,Indian,None,Spicy,None,Lunch,Casual,Moderate
+186,Russian Cuisine,Russian,None,Savory,None,Dinner,Casual,Moderate
+187,Asian Cuisine,Indonesian,None,Spicy,None,Dinner,Casual,Moderate
+188,Russian Cuisine,Russian,None,Savory,None,Lunch,Casual,Moderate
+189,Russian Cuisine,Russian,None,Savory,None,Snack,Casual,Moderate
+190,Sri Lankan Cuisine,Sri Lankan,None,"Spicy, Sour",Fish,Dinner,Casual,Moderate
+191,Russian Cuisine,Russian,None,"Spicy, Savory",None,Lunch,Special,Expensive
+192,Asian Cuisine,Indonesian,None,Savory,None,Lunch,Casual,Moderate
+193,Asian Cuisine,Thai,None,"Spicy, Sour",Peanuts,Lunch,Casual,Moderate
+194,Asian Cuisine,Indonesian,None,Savory,None,Dinner,Casual,Moderate
+195,Sri Lankan Cuisine,Sri Lankan,None,"Sweet, Creamy",Eggs,Dessert,Special,Moderate
+196,Sri Lankan Cuisine,Sri Lankan,None,"Light, Savory",None,Breakfast,Casual,Moderate
+197,Sri Lankan Cuisine,Sri Lankan,None,"Creamy, Savory",None,Breakfast,Special,Moderate
+198,Asian Cuisine,Indonesian,None,"Spicy, Tangy",None,Lunch,Special,Expensive
+199,Sri Lankan Cuisine,Sri Lankan,Vegetarian,"Fresh, Tangy",None,Lunch,Casual,Moderate
+200,Indian Cuisine,Indian,None,Creamy,Dairy,Dinner,Casual,Moderate
+201,Sri Lankan Cuisine,Sri Lankan,None,Spicy,None,Lunch,Casual,Moderate
+202,Indian Cuisine,Indian,Vegetarian,Spicy,None,Breakfast,Casual,Moderate
+203,Sri Lankan Cuisine,Sri Lankan,None,"Creamy, Savory",None,Breakfast,Special,Moderate
+204,Sri Lankan Cuisine,Sri Lankan,Vegetarian,"Spicy, Savory",None,Dinner,Casual,Moderate
+205,Indian Cuisine,Indian,None,Spicy,None,Snack,Casual,Moderate
+206,Indian Cuisine,Indian,None,Spicy,None,Breakfast,Casual,Moderate
+207,Indian Cuisine,Indian,Vegetarian,"Spicy, Tangy",Shellfish,Breakfast,Special,Expensive
+208,Indian Cuisine,Indian,None,"Sweet, Crunchy",None,Snack,Casual,Moderate
+209,Indian Cuisine,Indian,Vegetarian,Creamy,Dairy,Dinner,Casual,Moderate
+210,Indian Cuisine,Indian,None,Smoky,None,Dinner,Casual,Moderate
+211,Indian Cuisine,Indian,Vegetarian,Creamy,Nuts,Dinner,Special,Moderate
+212,Indian Cuisine,Indian,Vegetarian,Sweet,Dairy,Dessert,Special,Moderate
